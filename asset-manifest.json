@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/canvas-arc/static/css/main.b60c93d4.chunk.css",
+    "main.js": "/canvas-arc/static/js/main.b96a20ea.chunk.js",
+    "main.js.map": "/canvas-arc/static/js/main.b96a20ea.chunk.js.map",
+    "runtime-main.js": "/canvas-arc/static/js/runtime-main.da787a55.js",
+    "runtime-main.js.map": "/canvas-arc/static/js/runtime-main.da787a55.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/canvas-arc/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.8b6e992c.chunk.js": "/canvas-arc/static/js/2.8b6e992c.chunk.js",
+    "static/js/2.8b6e992c.chunk.js.map": "/canvas-arc/static/js/2.8b6e992c.chunk.js.map",
+    "index.html": "/canvas-arc/index.html",
+    "precache-manifest.48c0bb98b26992a99d2c1d4810d648c8.js": "/canvas-arc/precache-manifest.48c0bb98b26992a99d2c1d4810d648c8.js",
+    "service-worker.js": "/canvas-arc/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/canvas-arc/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.b60c93d4.chunk.css.map": "/canvas-arc/static/css/main.b60c93d4.chunk.css.map",
+    "static/js/2.8b6e992c.chunk.js.LICENSE.txt": "/canvas-arc/static/js/2.8b6e992c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da787a55.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.8b6e992c.chunk.js",
+    "static/css/main.b60c93d4.chunk.css",
+    "static/js/main.b96a20ea.chunk.js"
+  ]
+}
